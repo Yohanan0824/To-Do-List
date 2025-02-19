@@ -1,1 +1,1 @@
-Download the file and run the .html file in your browser to access the application.
+Download and extract the file and run the .html file in your browser to access the application.
